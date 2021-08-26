@@ -1,1 +1,9 @@
-# compSci2021_DataFormats
+# Data Formatting, Reporting, and Exchange
+
+This is part of a set of pages on introduction to computer science. https://github.com/cmcntsh/IntroCompSci2021_topics
+
+## Exercises
+
+## Assigned Instructional Material
+
+## Optional Material
